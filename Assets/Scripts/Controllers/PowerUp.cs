@@ -8,7 +8,5 @@ public class PowerUp : MonoBehaviour
     private void Update()
     {
         GetComponent<OrbitTarget>().RotateAroundTarget();
-
-
     }
 }
